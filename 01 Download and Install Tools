@@ -1,0 +1,15 @@
+First you will likely want but don't strictly need Git which will show the GitHub folder system as if it was a folder on your computer so you can edit documents and work on your computer easier. 
+https://desktop.github.com/download/
+
+You will definitely need Orca access the link and go through the process in the instruction to obtain a free version of Orca. 
+https://www.faccts.de/docs/orca/6.0/tutorials/first_steps/install.html
+
+You will likely also want something to work as a GUI for Orca which makes actually using it for real chemistry much easier and faster.
+https://www.faccts.de/docs/orca/6.0/tutorials/first_steps/GUI.html
+
+This GUI is currently the first place where research needs to be done. I have used Avogadro and Chemcraft years ago. I want to know which of the interfaces has the shortest up time for new students while still having the ability to complete:
+1) Visualize molecular parameters
+2) Geometry optimizations for a list of methods + basis sets
+3) Batch run operations
+
+Some of these GUI help facilitate these operations but it may be better to use a GUI which is worse in say batch run and simply implement proper SoP. One of the properties that is very important is do any of these GUI have the right combination of ease, documentation, and videos to allow a new student to get up and running in a single study session.
