@@ -8,6 +8,7 @@ This project will involve:
 5) Determing accuracy and precision for computational results vs experimental
 6) Determing offsets for specific method's that have systematic errors.
 7) Predict infrared and Raman spectra for a list of target substrate molecules.
-8) Calculate conformation energies and molecular structures using several basis sets and methods for target substrate molecules.
-9) Fit Structural Parameters to experimental constants (microwave constants prefered) for target substrate molecules.
-10) Tabulating and Presenting these results.
+8) Obtain spectra of substrates that we do not already have.
+9) Calculate conformation energies and molecular structures using several basis sets and methods for target substrate molecules.
+10) Fit Structural Parameters to experimental constants (microwave constants prefered) for target substrate molecules.
+11) Tabulating and Presenting these results.
