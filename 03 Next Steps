@@ -1,0 +1,19 @@
+Once you have gotten a handle on Orca, the GUI, and Git you will need to branch this main directory to create your own sub-repo. This branch is where you will commit your calculations, bibliography, and articles. It is likely desireable to further branch your own sub repo where necessary so as to keep your work organized.
+Please label your main branch in the format:
+Date-Substrate1-Substrate2-Initials
+Example: 
+2025FA-Glycerol-Pyruvate-JJK
+My sub branches/directories would look like:
+2025FA-Glycerol
+2025FA-Pyruvate
+
+Within the 2025FA-Glycerol-Pyruvate-JJK branch I would likely have several files like:
+2025-08 Notes
+2025-09 Notes
+GUI Notes
+Proposed SoP 1
+Proposed SoP 2 (branch of 1)
+
+Which I generate as I work through my research and record issues.
+
+Any files that cannot be committed to the GitHub (here) I should request Dr. Klaassen to make a Google folder that is shared with me so I can upload the files there then paste a link to the file along with a description at the most logical place in the Github repo.
