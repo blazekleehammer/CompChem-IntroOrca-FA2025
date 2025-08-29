@@ -4,7 +4,7 @@ https://desktop.github.com/download/
 You will definitely need Orca access the link and go through the process in the instruction to obtain a free version of Orca. 
 https://www.faccts.de/docs/orca/6.0/tutorials/first_steps/install.html
 
-You will likely also want something to work as a GUI for Orca which makes actually using it for real chemistry much easier and faster.
+You will download the GUI programs for Orca which makes actually using it for real chemistry much easier and faster. Please organize between each other which 3 you wish to try and download those 3. We will meet and compare them. Don't worry if you end up with a favorite and the others don't get used, that gives the answer clearly.
 https://www.faccts.de/docs/orca/6.0/tutorials/first_steps/GUI.html
 
 This GUI is currently the first place where research needs to be done. I have used Avogadro and Chemcraft years ago. I want to know which of the interfaces has the shortest up time for new students while still having the ability to complete:
@@ -12,4 +12,4 @@ This GUI is currently the first place where research needs to be done. I have us
 2) Geometry optimizations for a list of methods + basis sets
 3) Batch run operations
 
-Some of these GUI help facilitate these operations but it may be better to use a GUI which is worse in say batch run and simply implement proper SoP. One of the properties that is very important is do any of these GUI have the right combination of ease, documentation, and videos to allow a new student to get up and running in a single study session.
+Some of these GUI help facilitate these operations but it may be better to use a GUI which is worse in say batch run and simply implement proper procedures. One of the properties that is very important is do any of these GUI have the right combination of ease, documentation, and videos to allow a new student to get up and running in a single study session.
