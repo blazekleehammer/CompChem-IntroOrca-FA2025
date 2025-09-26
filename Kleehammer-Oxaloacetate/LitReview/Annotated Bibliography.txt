@@ -1,0 +1,27 @@
+﻿Spectra and Conformational Binding of Oxaloacetate and Malate
+K. Ito, H. J. Bernstein. (1956) THE VIBRATIONAL SPECTRA OF THE FORMATE, ACETATE,AND OXALATE IONS, NRC Research Press, Canadian Journal of Chemistry, https://doi.org/10.1139/v56-021
+        Author K. Ito and H.J. Bernstein used this study to find experimental values of Raman spectra for aqueous solutions and Infrared spectra of solid oxaloacetate, formate, and acetate which had previously only been calculated with no solid assignments for the ions. The IR spectra was obtained using a Perkin-Elmer Model 12C doublepass spectrometer and Raman with a white Raman spectrometer. The aqueous Raman spectra were not as complete as the Infrared spectra due to the high solubility of the ions. The oxalate ions used for this experiment were saturated potassium oxalate (K₂C₂O₄·H₂O) in water for the Raman spectra. For Infrared both potassium oxalate and cesium oxalate (Cs₂C₂O₄) in water and deuterium. The oxalate ions used have D2h symmetry for the solid and solution as seen in the ability to have Raman and Infrared spectra (rule of mutual exclusion). This article has the spectra of the oxalate ions as well as tables assigning the vibrations and frequencies. 
+
+
+
+
+Andrei D. Vinogradov, Daryl Winter, Tsoo E. King.(1972) The binding site for oxaloacetate on succinate dehydrogenase, Biochemical and Biophysical Research Communications, Volume 49, Issue 2,, Pages 441-444, ISSN 0006-291X, https://doi.org/10.1016/0006-291X(72)90430-5.
+This article tests the inhibition oxaloacetate has of succinate dehydrogenase (SDH). Both molecules are involved with the Krebs cycle in different stages. This study found that dehydrogenase requires sulfhydryl groups and that oxaloacetate is a very competitive inhibitor of SDH. The inhibition takes part in two steps and when oxaloacetate binds to the site of dehydrogenase with a sulfhydryl, it forms a thiosemiacetal. This article does not have any information on spectra of either molecule, but interaction of these molecules involved in the same biological processes as inhibitors may have interesting implications on the structure of the two molecules. 
+
+
+David W. Schiering, J.E. Katon. (1986) The vibrational spectra and structure of oxaloacetic acid, Journal of Molecular Structure, Volume 144, Issues 1–2, Pages 71-82, ISSN 0022-2860, https://doi.org/10.1016/0022-2860(86)80168-5. 
+________________
+
+
+M. Kemiche, P. Becker, C. Carabatos-Nédelec, B. Wyncke, F. Bréhat (1996). Raman and infrared spectra of lithium hydrogen malate Li+H(C4H4O5−)(C4H6O5), Vibrational Spectroscopy, Volume 11, Issue 2, Pages 135-142, ISSN 0924-2031, https://doi.org/10.1016/0924-2031(95)00070-4
+Kemiche grew single Lithium Hydrogen Malate crystals (LHM) by slow evaporation of an aqueous solution. Spectra of these crystals were recorded at room temperature and 10K (-263.15 Celsius). No low temperature phase transition was seen. The author provides history of the study of malic salts as far back as 1899 by Traube. The symmetry of LHM was found to be C22 with infinite chains parallel to the [101] direction and perpendicular to the b axis [2]. These planes indicate good cleavage planes. LHM was prepared at room temperature in stoichiometric amounts (1 lithium hydrogen:2 malic acid). Evaporation took place over 2-3 weeks with resulting sizes of 7x6x4mm3 and low hygroscopic character. Raman spectra were recorded on a SPEX double monochromator spectrometer using 5145 Å line from a 200mW power argon laser. 10K samples used an Air Product Displex cryostat. The bands had only small frequency shifts with the change in temperature which indicates there is no phase change at low temperatures. Tables with vibrational modes as well as figures of the spectra are provided in this journal.
+
+
+________________
+
+
+Malate
+Barańska, H., Kuduk-Jaworska, J., Szostak, R. and Romaniewska, A. (2003), Vibrational spectra of racemic and enantiomeric malic acids. J. Raman Spectrosc., 34: 68-76. https://doi.org/10.1002/jrs.953
+https://pubmed.ncbi.nlm.nih.gov/1888740/
+https://pubmed.ncbi.nlm.nih.gov/7734152/
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083091
